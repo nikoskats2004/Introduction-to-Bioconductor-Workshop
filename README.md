@@ -17,7 +17,7 @@ This repository contains the complete hands-on code, documentation, and practica
 
 * `Bioconductor_Workshop_Script.R`: The complete, self-contained R script with all workshop modules (0 to 9).
 * `Οδηγός_Workshop_Bioconductor.pdf`: Comprehensive step-by-step workshop guide and documentation (in Greek).
-* `image_f1e526.png`: Per-sample FASTQ mean quality Boxplot generated during the QC module.
+* `Rplot.png`: Per-sample FASTQ mean quality Boxplot generated during the QC module.
 
 ---
 
