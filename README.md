@@ -9,7 +9,7 @@ This repository contains the complete hands-on code, documentation, and practica
 * **Speaker:** Nikolaos Katsikavalis
 * **Organized by:** Nikolaos Katsikavalis & IEEE Student Branch Lamia
 * **Affiliation:** Department of Computer Science and Biomedical Informatics, University of Thessaly
-* **Contact:** [nkatsikavalis@uth.gr](mailto:nkatsikavalis@uth.gr) | **LinkedIn:** Nikolaos Katsikavalis | **Instagram:** `@n.katsikavalis`
+* **Contact:** [nkatsikavalis@uth.gr](mailto:nkatsikavalis@uth.gr) 
 
 ---
 
