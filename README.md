@@ -189,7 +189,7 @@ rqcReadQualityBoxPlot(qc_results)
 ```
 
 #### 📊 Quality Control Visualization (Boxplot)
-![Rqc Read Quality Boxplot](image_f1e526.png)
+![Rqc Read Quality Boxplot](Rplot.png)
 
 * **`sample_1.fq`:** Exhibits higher overall read quality (median around **Q24**, reaching up to **Q40** for `I` bases), with wider variance due to lower quality scores in the initial bases of the first read (`!''*`).
 * **`sample_2.fq`:** Shows a lower quality distribution (median around **Q19**), directly reflecting the sharp quality drop at the 3' tail of the second read (`####`).
